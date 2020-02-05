@@ -656,10 +656,9 @@ ul.sub-menu {
 }
 
 #action {
-  background-image: url(../images/home/1.jpg);
-  background-color: #fbfafa;
+  background-image: url(../images/home/lezardLigne.png);
   background-repeat: repeat-x;
-  height: 97px;
+  height: 500px;
   background-position: center;
   display: table;
   position: static;
@@ -897,6 +896,7 @@ ul.sub-menu {
 
 .right.team-carousel-control {
   right: -50px;
+  
   background-image: url(../images/aboutus/right.png);
 }
 
