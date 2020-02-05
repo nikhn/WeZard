@@ -183,6 +183,7 @@
 .navbar-nav
 {
   margin: 20px -15px;
+  font-weight : bold;
 }
 .search i{
   color: #00aeef;
@@ -282,7 +283,7 @@
   font-size: 12px;
   padding: 20px;
   text-transform: uppercase;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 
