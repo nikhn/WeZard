@@ -185,6 +185,16 @@
   margin: 20px -15px;
   font-weight : bold;
 }
+
+.Test 
+{
+  background : red;
+}
+
+.navbar navbar-inverse
+{
+  position : fixed;
+}
 .search i{
   color: #00aeef;
   cursor: pointer;
@@ -657,7 +667,7 @@ ul.sub-menu {
 
 #action {
   background-image: url(../images/home/lezardLigne.png);
-  background-repeat: repeat-x;
+  background-repeat: no-repeat;
   height: 500px;
   background-position: center;
   display: table;
