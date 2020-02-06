@@ -468,9 +468,14 @@ ul.sub-menu {
   line-height: 0;
 }
 
+#Description 
+{
+  display : inline-block;
+}
+
 .testimonial .media .media-body blockquote:after{
   position: absolute;
-  right: 30px;
+  right: 15px;
   bottom: 14px;
   content: '"';
   font-size: 40px;
@@ -757,6 +762,7 @@ ul.sub-menu {
 
 .clients img {
   display: inline-block;
+  margin-top: 12%;
 }
 
 .clients-logo {
@@ -779,7 +785,7 @@ ul.sub-menu {
 }
 
 #page-breadcrumb {
-  background-image: url(../images/home/tour-bg.png);
+  background-image: url(../images/home/lezardLigne.png);
   background-color: #fbfafa;
   background-repeat: repeat-x;
   height: 130px;
